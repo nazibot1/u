@@ -1349,4 +1349,4 @@ client.on("message", message => { //clear
 
 
 
-  client.login('NTAzMDY0NjQ1Njc0NzI5NTE0.DqxDSw.bvSdnKlNFoTJKroVsoGuFKg4L3c');
+  client.login('NDkwNzAyNDQ2MzQ4MzM3MTUz.DryMTA.wAbU6Hhu588ud2xM8oiU0yP8FiE');
